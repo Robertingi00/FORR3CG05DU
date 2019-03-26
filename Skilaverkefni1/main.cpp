@@ -10,7 +10,7 @@ using namespace std;
 
 
 int main(){
-    int val;
+
     string globalVal[3] = {"Búa til nýjan nemanda","Velja nemanda", "Hætta"};
     string studentVal[3] = {"Bæta áfanga", "Prenta út áfanga", "Hætta"};
 
@@ -20,12 +20,14 @@ int main(){
         for(int i = 0; i < 3; i++){
             cout << i+1 << ". " << globalVal[i] << endl;
         }
+
+        int val;
         cout << "Hvað viltu gera? ";
         cin >> val;
         cout << "" << endl;
 
 
-        switch(val){
+        switch (val) {
             case 1: {
                 string name;
                 cout << "Nafn hjá nýjum nemanda: ";
@@ -34,12 +36,12 @@ int main(){
                 break;
             }
             case 2: {
-                int id,val2;
+                int id, val2;
                 students->printMenu();
                 cout << "Hvaða nemanda viltu velja: ";
                 cin >> id;
                 cout << "" << endl;
-                Student* currentStudent = students->getCurrentStudent(id);
+                Student *currentStudent = students->getCurrentStudent(id);
                 while (val2 != 3) {
                     cout << "Nemandi: " << currentStudent->getName() << endl;
                     for (int i = 0; i < 3; i++) {
@@ -66,7 +68,6 @@ int main(){
                             val2 = 3;
                             break;
                         }
-
                     }
                     cout << "" << endl;
                 }
@@ -74,6 +75,5 @@ int main(){
             }
             cout << "" << endl;
         }
-        cout << " " << endl;
     }
 }

@@ -24,7 +24,7 @@ Menuinn er frekar léttur en þeir eru tveir.
     
 ### Download with zip:
 Ef þú vilt downloada zip file af verkefninu. Farðu á þessa [síðu](https://kinolien.github.io/gitzip/) og sett url í gitHub repo root barinn.
-Url á minni síðu er https://github.com/Robertingi00/FORR3CG05DU/tree/master/Skilaverkefni1 það sama og er uppi. Þetta hljómar leiðinlega en þetta tekur ekki nema 5 sec, og færð zip möppu af verkefninu.
+Url á minni síðu er https://github.com/Robertingi00/FORR3CG05DU/tree/master/Skilaverkefni1 það sama og er uppi. Þetta hljómar leiðinlega en þetta tekur ekki nema 5 sec, og færð zip möppu af verkefninu(sub-folderinu), svo þú myndir ekki þurfa að clóna all repositorið.
     
 ## Höfundur.
 Róbert
