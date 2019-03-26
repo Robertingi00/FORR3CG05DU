@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Flugvollur"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019\ Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019\ Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019\ Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019\ Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019\ Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019\ Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019\ Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019\ Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="FORR3CG05DU">
+				<Option output="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/cmake-build-debug/FORR3CG05DU.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019\ Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/cmake-build-debug/Makefile&quot;  VERBOSE=1 FORR3CG05DU"/>
+					<CompileFile command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019\ Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019\ Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019\ Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="FORR3CG05DU/fast">
+				<Option output="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/cmake-build-debug/FORR3CG05DU.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019\ Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/cmake-build-debug/Makefile&quot;  VERBOSE=1 FORR3CG05DU/fast"/>
+					<CompileFile command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019\ Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019\ Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019\ Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019\ Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019\ Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019\ Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019\ Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/Flight/FlightDLL/FlightDLL.cpp">
+			<Option target="FORR3CG05DU"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/Flight/FlightDLL/FlightDLL.h">
+			<Option target="FORR3CG05DU"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/Flight/FlightDLL/FlightNode.cpp">
+			<Option target="FORR3CG05DU"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/Flight/FlightDLL/FlightNode.h">
+			<Option target="FORR3CG05DU"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/Flight/flight.cpp">
+			<Option target="FORR3CG05DU"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/Flight/flight.h">
+			<Option target="FORR3CG05DU"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airport/AirportDLL/airportDLL.cpp">
+			<Option target="FORR3CG05DU"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airport/AirportDLL/airportDLL.h">
+			<Option target="FORR3CG05DU"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airport/AirportDLL/airportNode.cpp">
+			<Option target="FORR3CG05DU"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airport/AirportDLL/airportNode.h">
+			<Option target="FORR3CG05DU"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airport/airport.cpp">
+			<Option target="FORR3CG05DU"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airport/airport.h">
+			<Option target="FORR3CG05DU"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Factory/Airplane/AirplaneDLL/airplaneDLL.cpp">
+			<Option target="FORR3CG05DU"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Factory/Airplane/AirplaneDLL/airplaneDLL.h">
+			<Option target="FORR3CG05DU"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Factory/Airplane/AirplaneDLL/airplaneNode.cpp">
+			<Option target="FORR3CG05DU"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Factory/Airplane/AirplaneDLL/airplaneNode.h">
+			<Option target="FORR3CG05DU"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Factory/Airplane/airplane.cpp">
+			<Option target="FORR3CG05DU"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Factory/Airplane/airplane.h">
+			<Option target="FORR3CG05DU"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Factory/FactoryDLL/factoryDLL.cpp">
+			<Option target="FORR3CG05DU"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Factory/FactoryDLL/factoryDLL.h">
+			<Option target="FORR3CG05DU"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Factory/FactoryDLL/factoryNode.cpp">
+			<Option target="FORR3CG05DU"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Factory/FactoryDLL/factoryNode.h">
+			<Option target="FORR3CG05DU"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Factory/factory.cpp">
+			<Option target="FORR3CG05DU"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Factory/factory.h">
+			<Option target="FORR3CG05DU"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/TimeDate/timeDate.cpp">
+			<Option target="FORR3CG05DU"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/TimeDate/timeDate.h">
+			<Option target="FORR3CG05DU"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/main.cpp">
+			<Option target="FORR3CG05DU"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

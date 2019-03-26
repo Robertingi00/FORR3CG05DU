@@ -1,0 +1,52 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/Skilaverkefni1/Stack/stack.h
+stackNode.h
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/Skilaverkefni1/Stack/stackNode.h
+string
+-
+
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/Skilaverkefni1/Stack/stackNode.h
+string
+-
+../course.h
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/Skilaverkefni1/course.h
+
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/Skilaverkefni1/StudentDL/studentDL.h
+studentDLNode.h
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/Skilaverkefni1/StudentDL/studentDLNode.h
+../student.h
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/Skilaverkefni1/student.h
+string
+-
+
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/Skilaverkefni1/StudentDL/studentDLNode.h
+string
+-
+../student.h
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/Skilaverkefni1/student.h
+
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/Skilaverkefni1/course.h
+string
+-
+
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/Skilaverkefni1/main.cpp
+iostream
+-
+string
+-
+StudentDL/studentDL.h
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/Skilaverkefni1/StudentDL/studentDL.h
+
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/Skilaverkefni1/student.h
+string
+-
+Stack/stack.h
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/Skilaverkefni1/Stack/stack.h
+

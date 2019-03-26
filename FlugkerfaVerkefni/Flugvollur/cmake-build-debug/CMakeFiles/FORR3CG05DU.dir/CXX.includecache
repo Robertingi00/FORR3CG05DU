@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/Flight/flight.cpp
+string
+-
+iostream
+-
+flight.h
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/Flight/flight.h
+
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/Flight/flight.h
+string
+-
+../../Airport/airport.h
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airport/airport.h
+../../Factory/Airplane/airplane.h
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Factory/Airplane/airplane.h
+../../TimeDate/timeDate.h
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/TimeDate/timeDate.h
+
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airport/airport.h
+string
+-
+
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Factory/Airplane/airplane.h
+string
+-
+
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/TimeDate/timeDate.h
+string
+-
+
