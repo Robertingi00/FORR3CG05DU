@@ -19,7 +19,7 @@ Menuinn er frekar léttur en þeir eru tveir.
     
 ### Villur:
 * Ein villan sem ég er ekki búin að laga er hitið á moppu á fileum.
-    * Þegar möppurnar enda á DL ætti það að vera LL. Link list.
+    * Þegar möppurnar enda á DL ætti það að vera LL(Link list).
     
     
 ### Download with zip:
