@@ -1,11 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/FORR3CG05DU.dir/Skilaverkefni1/main.cpp.o"
-  "CMakeFiles/FORR3CG05DU.dir/Skilaverkefni1/course.cpp.o"
-  "CMakeFiles/FORR3CG05DU.dir/Skilaverkefni1/student.cpp.o"
-  "CMakeFiles/FORR3CG05DU.dir/Skilaverkefni1/Stack/stack.cpp.o"
-  "CMakeFiles/FORR3CG05DU.dir/Skilaverkefni1/stack/stackNode.cpp.o"
-  "CMakeFiles/FORR3CG05DU.dir/Skilaverkefni1/StudentDL/studentDL.cpp.o"
-  "CMakeFiles/FORR3CG05DU.dir/Skilaverkefni1/StudentDL/studentDLNode.cpp.o"
+  "CMakeFiles/FORR3CG05DU.dir/operatorOverloading/puntur.cpp.o"
   "FORR3CG05DU.pdb"
   "FORR3CG05DU.exe"
   "libFORR3CG05DU.dll.a"

@@ -13,13 +13,19 @@ private:
     FlightNode *next;
     FlightNode *prev;
 public:
-    FlightNode(int, string, Airport *, Airport *, Airplane *, string, int, int, int, string, int, int, int,
-               FlightNode *, FlightNode *);
+    FlightNode(int, string, Airport *, Airport *, Airplane *, string, int, int, int, string, int, int, int);
+    FlightNode(int, string, Airport *, Airport *, Airplane *, string, int, int, int, string, int, int, int, FlightNode*);
+    FlightNode(int, string, Airport *, Airport *, Airplane *, string, int, int, int, string, int, int, int, FlightNode*, FlightNode*);
 
-    int push(int, string, Airport *, Airport *, Airplane *, string, int, int, int, string, int, int, int);
     int dele(int);
 
+    int createFlight(int, string, Airport *, Airport *, Airplane *, string, int, int, int, string, int, int, int);
+
+    void print();
+
     Flight* getData();
+    FlightNode* getNext();
+    FlightNode* getPrev();
 };
 
 #endif //FLUGVOLLUR_FLIGHTNODE_H

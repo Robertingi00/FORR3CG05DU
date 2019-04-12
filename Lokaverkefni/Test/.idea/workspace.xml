@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Test" targetName="Test" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="12104d3e-c398-4acb-b8b8-734f029e26d7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/Airline/AirlineDLL/airlineNodeDLL.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/Airline/AirlineDLL/airlineNodeDLL.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/Airline/airline.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/Airline/airline.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FrontDesk/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/Airline/Flight/FlightDLL/FlightDLL.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/Airline/Flight/FlightDLL/FlightDLL.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/Airline/Flight/FlightDLL/FlightDLL.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/Airline/Flight/FlightDLL/FlightDLL.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/Airline/Flight/FlightDLL/FlightNode.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/Airline/Flight/FlightDLL/FlightNode.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/Airline/Flight/FlightDLL/FlightNode.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/Airline/Flight/FlightDLL/FlightNode.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/Factory/FactoryDLL/factoryNode.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/Factory/FactoryDLL/factoryNode.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/Factory/FactoryDLL/factoryNode.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/Factory/FactoryDLL/factoryNode.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/cmake-build-debug/CMakeFiles/FORR3CG05DU.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/cmake-build-debug/CMakeFiles/FORR3CG05DU.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/cmake-build-debug/CMakeFiles/FORR3CG05DU.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/cmake-build-debug/CMakeFiles/FORR3CG05DU.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/cmake-build-debug/CMakeFiles/FORR3CG05DU.dir/Factory/FactoryDLL/factoryDLL.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/cmake-build-debug/CMakeFiles/FORR3CG05DU.dir/Factory/FactoryDLL/factoryDLL.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/cmake-build-debug/CMakeFiles/FORR3CG05DU.dir/Factory/FactoryDLL/factoryNode.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/cmake-build-debug/CMakeFiles/FORR3CG05DU.dir/Factory/FactoryDLL/factoryNode.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/cmake-build-debug/CMakeFiles/FORR3CG05DU.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/cmake-build-debug/CMakeFiles/FORR3CG05DU.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/cmake-build-debug/CMakeFiles/FORR3CG05DU.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/cmake-build-debug/CMakeFiles/FORR3CG05DU.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/cmake-build-debug/CMakeFiles/FORR3CG05DU.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/cmake-build-debug/CMakeFiles/FORR3CG05DU.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/cmake-build-debug/CMakeFiles/FORR3CG05DU.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/cmake-build-debug/CMakeFiles/FORR3CG05DU.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/cmake-build-debug/CMakeFiles/FORR3CG05DU.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/cmake-build-debug/CMakeFiles/FORR3CG05DU.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/cmake-build-debug/CMakeFiles/FORR3CG05DU.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/cmake-build-debug/CMakeFiles/FORR3CG05DU.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/cmake-build-debug/CMakeFiles/FORR3CG05DU.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/cmake-build-debug/CMakeFiles/FORR3CG05DU.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/cmake-build-debug/FORR3CG05DU.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/cmake-build-debug/FORR3CG05DU.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/cmake-build-debug/FORR3CG05DU.exe.stackdump" beforeDir="false" afterPath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/cmake-build-debug/FORR3CG05DU.exe.stackdump" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/cmake-build-debug/Flugvollur.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/cmake-build-debug/Flugvollur.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../FlugkerfaVerkefni/Flugvollur/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/FORR3CG05DU.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/FORR3CG05DU.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/FORR3CG05DU.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/FORR3CG05DU.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/FORR3CG05DU.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/FORR3CG05DU.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/FORR3CG05DU.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/FORR3CG05DU.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/FORR3CG05DU.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/FORR3CG05DU.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/FORR3CG05DU.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/FORR3CG05DU.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/FORR3CG05DU.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/FORR3CG05DU.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/FORR3CG05DU.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/FORR3CG05DU.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/FORR3CG05DU.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../cmake-build-debug/FORR3CG05DU.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/FORR3CG05DU.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../cmake-build-debug/FORR3CG05DU.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../cmake-build-debug/Makefile" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/firstTest.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/firstTest.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="5" />
+    <option name="y" value="15" />
+    <option name="width" value="1920" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../FORR3FV05EU/Glove_FORR3FV" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="language.cpp.clang-tidy" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Test" TARGET_NAME="Test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Test" RUN_TARGET_NAME="Test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12104d3e-c398-4acb-b8b8-734f029e26d7" name="Default Changelist" comment="" />
+      <created>1553964707496</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553964707496</updated>
+      <workItem from="1553964708768" duration="4950000" />
+      <workItem from="1553978863071" duration="1957000" />
+      <workItem from="1554042685947" duration="555000" />
+      <workItem from="1554387838485" duration="218000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7680000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25973153" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.4986577" weight="0.33427763" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50201344" side_tool="true" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info active="true" anchor="bottom" id="CMake" order="12" sideWeight="0.49798658" visible="true" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/firstTest.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

@@ -23,7 +23,6 @@ public:
 
     int makePlane(string, string, int);
 
-    int getNextPlaneId();
     Factory* getData();
     FactoryNode* getNext();
     FactoryNode* getprev();

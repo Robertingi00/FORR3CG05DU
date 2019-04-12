@@ -1,0 +1,1 @@
+C:/cygwin64/bin/g++.exe -g  -Wl,--enable-auto-import CMakeFiles/Skilaverkefni2.dir/main.cpp.o CMakeFiles/Skilaverkefni2.dir/Projectors/projectors.cpp.o  -o Skilaverkefni2.exe -Wl,--out-implib,libSkilaverkefni2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

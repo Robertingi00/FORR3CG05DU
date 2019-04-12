@@ -80,22 +80,40 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/Flight/FlightDLL/FlightDLL.cpp">
+		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/AirlineDLL/airlineDLL.cpp">
 			<Option target="FORR3CG05DU"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/Flight/FlightDLL/FlightDLL.h">
+		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/AirlineDLL/airlineDLL.h">
 			<Option target="FORR3CG05DU"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/Flight/FlightDLL/FlightNode.cpp">
+		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/AirlineDLL/airlineNodeDLL.cpp">
 			<Option target="FORR3CG05DU"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/Flight/FlightDLL/FlightNode.h">
+		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/AirlineDLL/airlineNodeDLL.h">
+			<Option target="FORR3CG05DU"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/Flight/FlightDLL/flightDLL.cpp">
+			<Option target="FORR3CG05DU"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/Flight/FlightDLL/flightDLL.h">
+			<Option target="FORR3CG05DU"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/Flight/FlightDLL/flightNode.cpp">
+			<Option target="FORR3CG05DU"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/Flight/FlightDLL/flightNode.h">
 			<Option target="FORR3CG05DU"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/Flight/flight.cpp">
 			<Option target="FORR3CG05DU"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/Flight/flight.h">
+			<Option target="FORR3CG05DU"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/airline.cpp">
+			<Option target="FORR3CG05DU"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/airline.h">
 			<Option target="FORR3CG05DU"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airport/AirportDLL/airportDLL.cpp">
@@ -159,6 +177,9 @@
 			<Option target="FORR3CG05DU"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/main.cpp">
+			<Option target="FORR3CG05DU"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/testMenu.cpp">
 			<Option target="FORR3CG05DU"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/CMakeLists.txt">

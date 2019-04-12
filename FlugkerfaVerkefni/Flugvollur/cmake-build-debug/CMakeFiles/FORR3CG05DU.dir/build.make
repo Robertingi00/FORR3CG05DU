@@ -187,9 +187,35 @@ CMakeFiles/FORR3CG05DU.dir/Airport/airport.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FORR3CG05DU.dir/Airport/airport.cpp.s"
 	C:/cygwin64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airport/airport.cpp" -o CMakeFiles/FORR3CG05DU.dir/Airport/airport.cpp.s
 
+CMakeFiles/FORR3CG05DU.dir/Airline/Flight/FlightDLL/flightDLL.cpp.o: CMakeFiles/FORR3CG05DU.dir/flags.make
+CMakeFiles/FORR3CG05DU.dir/Airline/Flight/FlightDLL/flightDLL.cpp.o: ../Airline/Flight/FlightDLL/flightDLL.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/FORR3CG05DU.dir/Airline/Flight/FlightDLL/flightDLL.cpp.o"
+	C:/cygwin64/bin/g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FORR3CG05DU.dir/Airline/Flight/FlightDLL/flightDLL.cpp.o -c "/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/Flight/FlightDLL/flightDLL.cpp"
+
+CMakeFiles/FORR3CG05DU.dir/Airline/Flight/FlightDLL/flightDLL.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FORR3CG05DU.dir/Airline/Flight/FlightDLL/flightDLL.cpp.i"
+	C:/cygwin64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/Flight/FlightDLL/flightDLL.cpp" > CMakeFiles/FORR3CG05DU.dir/Airline/Flight/FlightDLL/flightDLL.cpp.i
+
+CMakeFiles/FORR3CG05DU.dir/Airline/Flight/FlightDLL/flightDLL.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FORR3CG05DU.dir/Airline/Flight/FlightDLL/flightDLL.cpp.s"
+	C:/cygwin64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/Flight/FlightDLL/flightDLL.cpp" -o CMakeFiles/FORR3CG05DU.dir/Airline/Flight/FlightDLL/flightDLL.cpp.s
+
+CMakeFiles/FORR3CG05DU.dir/Airline/Flight/FlightDLL/flightNode.cpp.o: CMakeFiles/FORR3CG05DU.dir/flags.make
+CMakeFiles/FORR3CG05DU.dir/Airline/Flight/FlightDLL/flightNode.cpp.o: ../Airline/Flight/FlightDLL/flightNode.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/FORR3CG05DU.dir/Airline/Flight/FlightDLL/flightNode.cpp.o"
+	C:/cygwin64/bin/g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FORR3CG05DU.dir/Airline/Flight/FlightDLL/flightNode.cpp.o -c "/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/Flight/FlightDLL/flightNode.cpp"
+
+CMakeFiles/FORR3CG05DU.dir/Airline/Flight/FlightDLL/flightNode.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FORR3CG05DU.dir/Airline/Flight/FlightDLL/flightNode.cpp.i"
+	C:/cygwin64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/Flight/FlightDLL/flightNode.cpp" > CMakeFiles/FORR3CG05DU.dir/Airline/Flight/FlightDLL/flightNode.cpp.i
+
+CMakeFiles/FORR3CG05DU.dir/Airline/Flight/FlightDLL/flightNode.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FORR3CG05DU.dir/Airline/Flight/FlightDLL/flightNode.cpp.s"
+	C:/cygwin64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/Flight/FlightDLL/flightNode.cpp" -o CMakeFiles/FORR3CG05DU.dir/Airline/Flight/FlightDLL/flightNode.cpp.s
+
 CMakeFiles/FORR3CG05DU.dir/Airline/Flight/flight.cpp.o: CMakeFiles/FORR3CG05DU.dir/flags.make
 CMakeFiles/FORR3CG05DU.dir/Airline/Flight/flight.cpp.o: ../Airline/Flight/flight.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/FORR3CG05DU.dir/Airline/Flight/flight.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/FORR3CG05DU.dir/Airline/Flight/flight.cpp.o"
 	C:/cygwin64/bin/g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FORR3CG05DU.dir/Airline/Flight/flight.cpp.o -c "/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/Flight/flight.cpp"
 
 CMakeFiles/FORR3CG05DU.dir/Airline/Flight/flight.cpp.i: cmake_force
@@ -202,7 +228,7 @@ CMakeFiles/FORR3CG05DU.dir/Airline/Flight/flight.cpp.s: cmake_force
 
 CMakeFiles/FORR3CG05DU.dir/TimeDate/timeDate.cpp.o: CMakeFiles/FORR3CG05DU.dir/flags.make
 CMakeFiles/FORR3CG05DU.dir/TimeDate/timeDate.cpp.o: ../TimeDate/timeDate.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/FORR3CG05DU.dir/TimeDate/timeDate.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/FORR3CG05DU.dir/TimeDate/timeDate.cpp.o"
 	C:/cygwin64/bin/g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FORR3CG05DU.dir/TimeDate/timeDate.cpp.o -c "/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/TimeDate/timeDate.cpp"
 
 CMakeFiles/FORR3CG05DU.dir/TimeDate/timeDate.cpp.i: cmake_force
@@ -213,31 +239,57 @@ CMakeFiles/FORR3CG05DU.dir/TimeDate/timeDate.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FORR3CG05DU.dir/TimeDate/timeDate.cpp.s"
 	C:/cygwin64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/TimeDate/timeDate.cpp" -o CMakeFiles/FORR3CG05DU.dir/TimeDate/timeDate.cpp.s
 
-CMakeFiles/FORR3CG05DU.dir/Airline/Flight/FlightDLL/FlightDLL.cpp.o: CMakeFiles/FORR3CG05DU.dir/flags.make
-CMakeFiles/FORR3CG05DU.dir/Airline/Flight/FlightDLL/FlightDLL.cpp.o: ../Airline/Flight/FlightDLL/FlightDLL.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/FORR3CG05DU.dir/Airline/Flight/FlightDLL/FlightDLL.cpp.o"
-	C:/cygwin64/bin/g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FORR3CG05DU.dir/Airline/Flight/FlightDLL/FlightDLL.cpp.o -c "/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/Flight/FlightDLL/FlightDLL.cpp"
+CMakeFiles/FORR3CG05DU.dir/Airline/AirlineDLL/airlineDLL.cpp.o: CMakeFiles/FORR3CG05DU.dir/flags.make
+CMakeFiles/FORR3CG05DU.dir/Airline/AirlineDLL/airlineDLL.cpp.o: ../Airline/AirlineDLL/airlineDLL.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/FORR3CG05DU.dir/Airline/AirlineDLL/airlineDLL.cpp.o"
+	C:/cygwin64/bin/g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FORR3CG05DU.dir/Airline/AirlineDLL/airlineDLL.cpp.o -c "/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/AirlineDLL/airlineDLL.cpp"
 
-CMakeFiles/FORR3CG05DU.dir/Airline/Flight/FlightDLL/FlightDLL.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FORR3CG05DU.dir/Airline/Flight/FlightDLL/FlightDLL.cpp.i"
-	C:/cygwin64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/Flight/FlightDLL/FlightDLL.cpp" > CMakeFiles/FORR3CG05DU.dir/Airline/Flight/FlightDLL/FlightDLL.cpp.i
+CMakeFiles/FORR3CG05DU.dir/Airline/AirlineDLL/airlineDLL.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FORR3CG05DU.dir/Airline/AirlineDLL/airlineDLL.cpp.i"
+	C:/cygwin64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/AirlineDLL/airlineDLL.cpp" > CMakeFiles/FORR3CG05DU.dir/Airline/AirlineDLL/airlineDLL.cpp.i
 
-CMakeFiles/FORR3CG05DU.dir/Airline/Flight/FlightDLL/FlightDLL.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FORR3CG05DU.dir/Airline/Flight/FlightDLL/FlightDLL.cpp.s"
-	C:/cygwin64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/Flight/FlightDLL/FlightDLL.cpp" -o CMakeFiles/FORR3CG05DU.dir/Airline/Flight/FlightDLL/FlightDLL.cpp.s
+CMakeFiles/FORR3CG05DU.dir/Airline/AirlineDLL/airlineDLL.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FORR3CG05DU.dir/Airline/AirlineDLL/airlineDLL.cpp.s"
+	C:/cygwin64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/AirlineDLL/airlineDLL.cpp" -o CMakeFiles/FORR3CG05DU.dir/Airline/AirlineDLL/airlineDLL.cpp.s
 
-CMakeFiles/FORR3CG05DU.dir/Airline/Flight/FlightDLL/FlightNode.cpp.o: CMakeFiles/FORR3CG05DU.dir/flags.make
-CMakeFiles/FORR3CG05DU.dir/Airline/Flight/FlightDLL/FlightNode.cpp.o: ../Airline/Flight/FlightDLL/FlightNode.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/FORR3CG05DU.dir/Airline/Flight/FlightDLL/FlightNode.cpp.o"
-	C:/cygwin64/bin/g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FORR3CG05DU.dir/Airline/Flight/FlightDLL/FlightNode.cpp.o -c "/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/Flight/FlightDLL/FlightNode.cpp"
+CMakeFiles/FORR3CG05DU.dir/Airline/AirlineDLL/airlineNodeDLL.cpp.o: CMakeFiles/FORR3CG05DU.dir/flags.make
+CMakeFiles/FORR3CG05DU.dir/Airline/AirlineDLL/airlineNodeDLL.cpp.o: ../Airline/AirlineDLL/airlineNodeDLL.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/FORR3CG05DU.dir/Airline/AirlineDLL/airlineNodeDLL.cpp.o"
+	C:/cygwin64/bin/g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FORR3CG05DU.dir/Airline/AirlineDLL/airlineNodeDLL.cpp.o -c "/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/AirlineDLL/airlineNodeDLL.cpp"
 
-CMakeFiles/FORR3CG05DU.dir/Airline/Flight/FlightDLL/FlightNode.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FORR3CG05DU.dir/Airline/Flight/FlightDLL/FlightNode.cpp.i"
-	C:/cygwin64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/Flight/FlightDLL/FlightNode.cpp" > CMakeFiles/FORR3CG05DU.dir/Airline/Flight/FlightDLL/FlightNode.cpp.i
+CMakeFiles/FORR3CG05DU.dir/Airline/AirlineDLL/airlineNodeDLL.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FORR3CG05DU.dir/Airline/AirlineDLL/airlineNodeDLL.cpp.i"
+	C:/cygwin64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/AirlineDLL/airlineNodeDLL.cpp" > CMakeFiles/FORR3CG05DU.dir/Airline/AirlineDLL/airlineNodeDLL.cpp.i
 
-CMakeFiles/FORR3CG05DU.dir/Airline/Flight/FlightDLL/FlightNode.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FORR3CG05DU.dir/Airline/Flight/FlightDLL/FlightNode.cpp.s"
-	C:/cygwin64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/Flight/FlightDLL/FlightNode.cpp" -o CMakeFiles/FORR3CG05DU.dir/Airline/Flight/FlightDLL/FlightNode.cpp.s
+CMakeFiles/FORR3CG05DU.dir/Airline/AirlineDLL/airlineNodeDLL.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FORR3CG05DU.dir/Airline/AirlineDLL/airlineNodeDLL.cpp.s"
+	C:/cygwin64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/AirlineDLL/airlineNodeDLL.cpp" -o CMakeFiles/FORR3CG05DU.dir/Airline/AirlineDLL/airlineNodeDLL.cpp.s
+
+CMakeFiles/FORR3CG05DU.dir/Airline/airline.cpp.o: CMakeFiles/FORR3CG05DU.dir/flags.make
+CMakeFiles/FORR3CG05DU.dir/Airline/airline.cpp.o: ../Airline/airline.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/FORR3CG05DU.dir/Airline/airline.cpp.o"
+	C:/cygwin64/bin/g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FORR3CG05DU.dir/Airline/airline.cpp.o -c "/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/airline.cpp"
+
+CMakeFiles/FORR3CG05DU.dir/Airline/airline.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FORR3CG05DU.dir/Airline/airline.cpp.i"
+	C:/cygwin64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/airline.cpp" > CMakeFiles/FORR3CG05DU.dir/Airline/airline.cpp.i
+
+CMakeFiles/FORR3CG05DU.dir/Airline/airline.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FORR3CG05DU.dir/Airline/airline.cpp.s"
+	C:/cygwin64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/airline.cpp" -o CMakeFiles/FORR3CG05DU.dir/Airline/airline.cpp.s
+
+CMakeFiles/FORR3CG05DU.dir/testMenu.cpp.o: CMakeFiles/FORR3CG05DU.dir/flags.make
+CMakeFiles/FORR3CG05DU.dir/testMenu.cpp.o: ../testMenu.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/FORR3CG05DU.dir/testMenu.cpp.o"
+	C:/cygwin64/bin/g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FORR3CG05DU.dir/testMenu.cpp.o -c "/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/testMenu.cpp"
+
+CMakeFiles/FORR3CG05DU.dir/testMenu.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FORR3CG05DU.dir/testMenu.cpp.i"
+	C:/cygwin64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/testMenu.cpp" > CMakeFiles/FORR3CG05DU.dir/testMenu.cpp.i
+
+CMakeFiles/FORR3CG05DU.dir/testMenu.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FORR3CG05DU.dir/testMenu.cpp.s"
+	C:/cygwin64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/testMenu.cpp" -o CMakeFiles/FORR3CG05DU.dir/testMenu.cpp.s
 
 # Object files for target FORR3CG05DU
 FORR3CG05DU_OBJECTS = \
@@ -251,10 +303,14 @@ FORR3CG05DU_OBJECTS = \
 "CMakeFiles/FORR3CG05DU.dir/Airport/AirportDLL/airportDLL.cpp.o" \
 "CMakeFiles/FORR3CG05DU.dir/Airport/AirportDLL/airportNode.cpp.o" \
 "CMakeFiles/FORR3CG05DU.dir/Airport/airport.cpp.o" \
+"CMakeFiles/FORR3CG05DU.dir/Airline/Flight/FlightDLL/flightDLL.cpp.o" \
+"CMakeFiles/FORR3CG05DU.dir/Airline/Flight/FlightDLL/flightNode.cpp.o" \
 "CMakeFiles/FORR3CG05DU.dir/Airline/Flight/flight.cpp.o" \
 "CMakeFiles/FORR3CG05DU.dir/TimeDate/timeDate.cpp.o" \
-"CMakeFiles/FORR3CG05DU.dir/Airline/Flight/FlightDLL/FlightDLL.cpp.o" \
-"CMakeFiles/FORR3CG05DU.dir/Airline/Flight/FlightDLL/FlightNode.cpp.o"
+"CMakeFiles/FORR3CG05DU.dir/Airline/AirlineDLL/airlineDLL.cpp.o" \
+"CMakeFiles/FORR3CG05DU.dir/Airline/AirlineDLL/airlineNodeDLL.cpp.o" \
+"CMakeFiles/FORR3CG05DU.dir/Airline/airline.cpp.o" \
+"CMakeFiles/FORR3CG05DU.dir/testMenu.cpp.o"
 
 # External object files for target FORR3CG05DU
 FORR3CG05DU_EXTERNAL_OBJECTS =
@@ -269,13 +325,17 @@ FORR3CG05DU.exe: CMakeFiles/FORR3CG05DU.dir/Factory/Airplane/airplane.cpp.o
 FORR3CG05DU.exe: CMakeFiles/FORR3CG05DU.dir/Airport/AirportDLL/airportDLL.cpp.o
 FORR3CG05DU.exe: CMakeFiles/FORR3CG05DU.dir/Airport/AirportDLL/airportNode.cpp.o
 FORR3CG05DU.exe: CMakeFiles/FORR3CG05DU.dir/Airport/airport.cpp.o
+FORR3CG05DU.exe: CMakeFiles/FORR3CG05DU.dir/Airline/Flight/FlightDLL/flightDLL.cpp.o
+FORR3CG05DU.exe: CMakeFiles/FORR3CG05DU.dir/Airline/Flight/FlightDLL/flightNode.cpp.o
 FORR3CG05DU.exe: CMakeFiles/FORR3CG05DU.dir/Airline/Flight/flight.cpp.o
 FORR3CG05DU.exe: CMakeFiles/FORR3CG05DU.dir/TimeDate/timeDate.cpp.o
-FORR3CG05DU.exe: CMakeFiles/FORR3CG05DU.dir/Airline/Flight/FlightDLL/FlightDLL.cpp.o
-FORR3CG05DU.exe: CMakeFiles/FORR3CG05DU.dir/Airline/Flight/FlightDLL/FlightNode.cpp.o
+FORR3CG05DU.exe: CMakeFiles/FORR3CG05DU.dir/Airline/AirlineDLL/airlineDLL.cpp.o
+FORR3CG05DU.exe: CMakeFiles/FORR3CG05DU.dir/Airline/AirlineDLL/airlineNodeDLL.cpp.o
+FORR3CG05DU.exe: CMakeFiles/FORR3CG05DU.dir/Airline/airline.cpp.o
+FORR3CG05DU.exe: CMakeFiles/FORR3CG05DU.dir/testMenu.cpp.o
 FORR3CG05DU.exe: CMakeFiles/FORR3CG05DU.dir/build.make
 FORR3CG05DU.exe: CMakeFiles/FORR3CG05DU.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_15) "Linking CXX executable FORR3CG05DU.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_19) "Linking CXX executable FORR3CG05DU.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/FORR3CG05DU.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -80,43 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/Skilaverkefni1/Stack/stack.cpp">
-			<Option target="FORR3CG05DU"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/Skilaverkefni1/Stack/stack.h">
-			<Option target="FORR3CG05DU"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/Skilaverkefni1/StudentDL/studentDL.cpp">
-			<Option target="FORR3CG05DU"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/Skilaverkefni1/StudentDL/studentDL.h">
-			<Option target="FORR3CG05DU"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/Skilaverkefni1/StudentDL/studentDLNode.cpp">
-			<Option target="FORR3CG05DU"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/Skilaverkefni1/StudentDL/studentDLNode.h">
-			<Option target="FORR3CG05DU"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/Skilaverkefni1/course.cpp">
-			<Option target="FORR3CG05DU"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/Skilaverkefni1/course.h">
-			<Option target="FORR3CG05DU"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/Skilaverkefni1/main.cpp">
-			<Option target="FORR3CG05DU"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/Skilaverkefni1/stack/stackNode.cpp">
-			<Option target="FORR3CG05DU"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/Skilaverkefni1/stack/stackNode.h">
-			<Option target="FORR3CG05DU"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/Skilaverkefni1/student.cpp">
-			<Option target="FORR3CG05DU"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/Skilaverkefni1/student.h">
+		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/operatorOverloading/puntur.cpp">
 			<Option target="FORR3CG05DU"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/CMakeLists.txt">

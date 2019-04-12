@@ -123,194 +123,32 @@ FORR3CG05DU/fast:
 	$(MAKE) -f CMakeFiles/FORR3CG05DU.dir/build.make CMakeFiles/FORR3CG05DU.dir/build
 .PHONY : FORR3CG05DU/fast
 
-Skilaverkefni1/Stack/stack.o: Skilaverkefni1/Stack/stack.cpp.o
+operatorOverloading/puntur.o: operatorOverloading/puntur.cpp.o
 
-.PHONY : Skilaverkefni1/Stack/stack.o
-
-# target to build an object file
-Skilaverkefni1/Stack/stack.cpp.o:
-	$(MAKE) -f CMakeFiles/FORR3CG05DU.dir/build.make CMakeFiles/FORR3CG05DU.dir/Skilaverkefni1/Stack/stack.cpp.o
-.PHONY : Skilaverkefni1/Stack/stack.cpp.o
-
-Skilaverkefni1/Stack/stack.i: Skilaverkefni1/Stack/stack.cpp.i
-
-.PHONY : Skilaverkefni1/Stack/stack.i
-
-# target to preprocess a source file
-Skilaverkefni1/Stack/stack.cpp.i:
-	$(MAKE) -f CMakeFiles/FORR3CG05DU.dir/build.make CMakeFiles/FORR3CG05DU.dir/Skilaverkefni1/Stack/stack.cpp.i
-.PHONY : Skilaverkefni1/Stack/stack.cpp.i
-
-Skilaverkefni1/Stack/stack.s: Skilaverkefni1/Stack/stack.cpp.s
-
-.PHONY : Skilaverkefni1/Stack/stack.s
-
-# target to generate assembly for a file
-Skilaverkefni1/Stack/stack.cpp.s:
-	$(MAKE) -f CMakeFiles/FORR3CG05DU.dir/build.make CMakeFiles/FORR3CG05DU.dir/Skilaverkefni1/Stack/stack.cpp.s
-.PHONY : Skilaverkefni1/Stack/stack.cpp.s
-
-Skilaverkefni1/StudentDL/studentDL.o: Skilaverkefni1/StudentDL/studentDL.cpp.o
-
-.PHONY : Skilaverkefni1/StudentDL/studentDL.o
+.PHONY : operatorOverloading/puntur.o
 
 # target to build an object file
-Skilaverkefni1/StudentDL/studentDL.cpp.o:
-	$(MAKE) -f CMakeFiles/FORR3CG05DU.dir/build.make CMakeFiles/FORR3CG05DU.dir/Skilaverkefni1/StudentDL/studentDL.cpp.o
-.PHONY : Skilaverkefni1/StudentDL/studentDL.cpp.o
+operatorOverloading/puntur.cpp.o:
+	$(MAKE) -f CMakeFiles/FORR3CG05DU.dir/build.make CMakeFiles/FORR3CG05DU.dir/operatorOverloading/puntur.cpp.o
+.PHONY : operatorOverloading/puntur.cpp.o
 
-Skilaverkefni1/StudentDL/studentDL.i: Skilaverkefni1/StudentDL/studentDL.cpp.i
+operatorOverloading/puntur.i: operatorOverloading/puntur.cpp.i
 
-.PHONY : Skilaverkefni1/StudentDL/studentDL.i
-
-# target to preprocess a source file
-Skilaverkefni1/StudentDL/studentDL.cpp.i:
-	$(MAKE) -f CMakeFiles/FORR3CG05DU.dir/build.make CMakeFiles/FORR3CG05DU.dir/Skilaverkefni1/StudentDL/studentDL.cpp.i
-.PHONY : Skilaverkefni1/StudentDL/studentDL.cpp.i
-
-Skilaverkefni1/StudentDL/studentDL.s: Skilaverkefni1/StudentDL/studentDL.cpp.s
-
-.PHONY : Skilaverkefni1/StudentDL/studentDL.s
-
-# target to generate assembly for a file
-Skilaverkefni1/StudentDL/studentDL.cpp.s:
-	$(MAKE) -f CMakeFiles/FORR3CG05DU.dir/build.make CMakeFiles/FORR3CG05DU.dir/Skilaverkefni1/StudentDL/studentDL.cpp.s
-.PHONY : Skilaverkefni1/StudentDL/studentDL.cpp.s
-
-Skilaverkefni1/StudentDL/studentDLNode.o: Skilaverkefni1/StudentDL/studentDLNode.cpp.o
-
-.PHONY : Skilaverkefni1/StudentDL/studentDLNode.o
-
-# target to build an object file
-Skilaverkefni1/StudentDL/studentDLNode.cpp.o:
-	$(MAKE) -f CMakeFiles/FORR3CG05DU.dir/build.make CMakeFiles/FORR3CG05DU.dir/Skilaverkefni1/StudentDL/studentDLNode.cpp.o
-.PHONY : Skilaverkefni1/StudentDL/studentDLNode.cpp.o
-
-Skilaverkefni1/StudentDL/studentDLNode.i: Skilaverkefni1/StudentDL/studentDLNode.cpp.i
-
-.PHONY : Skilaverkefni1/StudentDL/studentDLNode.i
+.PHONY : operatorOverloading/puntur.i
 
 # target to preprocess a source file
-Skilaverkefni1/StudentDL/studentDLNode.cpp.i:
-	$(MAKE) -f CMakeFiles/FORR3CG05DU.dir/build.make CMakeFiles/FORR3CG05DU.dir/Skilaverkefni1/StudentDL/studentDLNode.cpp.i
-.PHONY : Skilaverkefni1/StudentDL/studentDLNode.cpp.i
+operatorOverloading/puntur.cpp.i:
+	$(MAKE) -f CMakeFiles/FORR3CG05DU.dir/build.make CMakeFiles/FORR3CG05DU.dir/operatorOverloading/puntur.cpp.i
+.PHONY : operatorOverloading/puntur.cpp.i
 
-Skilaverkefni1/StudentDL/studentDLNode.s: Skilaverkefni1/StudentDL/studentDLNode.cpp.s
+operatorOverloading/puntur.s: operatorOverloading/puntur.cpp.s
 
-.PHONY : Skilaverkefni1/StudentDL/studentDLNode.s
-
-# target to generate assembly for a file
-Skilaverkefni1/StudentDL/studentDLNode.cpp.s:
-	$(MAKE) -f CMakeFiles/FORR3CG05DU.dir/build.make CMakeFiles/FORR3CG05DU.dir/Skilaverkefni1/StudentDL/studentDLNode.cpp.s
-.PHONY : Skilaverkefni1/StudentDL/studentDLNode.cpp.s
-
-Skilaverkefni1/course.o: Skilaverkefni1/course.cpp.o
-
-.PHONY : Skilaverkefni1/course.o
-
-# target to build an object file
-Skilaverkefni1/course.cpp.o:
-	$(MAKE) -f CMakeFiles/FORR3CG05DU.dir/build.make CMakeFiles/FORR3CG05DU.dir/Skilaverkefni1/course.cpp.o
-.PHONY : Skilaverkefni1/course.cpp.o
-
-Skilaverkefni1/course.i: Skilaverkefni1/course.cpp.i
-
-.PHONY : Skilaverkefni1/course.i
-
-# target to preprocess a source file
-Skilaverkefni1/course.cpp.i:
-	$(MAKE) -f CMakeFiles/FORR3CG05DU.dir/build.make CMakeFiles/FORR3CG05DU.dir/Skilaverkefni1/course.cpp.i
-.PHONY : Skilaverkefni1/course.cpp.i
-
-Skilaverkefni1/course.s: Skilaverkefni1/course.cpp.s
-
-.PHONY : Skilaverkefni1/course.s
+.PHONY : operatorOverloading/puntur.s
 
 # target to generate assembly for a file
-Skilaverkefni1/course.cpp.s:
-	$(MAKE) -f CMakeFiles/FORR3CG05DU.dir/build.make CMakeFiles/FORR3CG05DU.dir/Skilaverkefni1/course.cpp.s
-.PHONY : Skilaverkefni1/course.cpp.s
-
-Skilaverkefni1/main.o: Skilaverkefni1/main.cpp.o
-
-.PHONY : Skilaverkefni1/main.o
-
-# target to build an object file
-Skilaverkefni1/main.cpp.o:
-	$(MAKE) -f CMakeFiles/FORR3CG05DU.dir/build.make CMakeFiles/FORR3CG05DU.dir/Skilaverkefni1/main.cpp.o
-.PHONY : Skilaverkefni1/main.cpp.o
-
-Skilaverkefni1/main.i: Skilaverkefni1/main.cpp.i
-
-.PHONY : Skilaverkefni1/main.i
-
-# target to preprocess a source file
-Skilaverkefni1/main.cpp.i:
-	$(MAKE) -f CMakeFiles/FORR3CG05DU.dir/build.make CMakeFiles/FORR3CG05DU.dir/Skilaverkefni1/main.cpp.i
-.PHONY : Skilaverkefni1/main.cpp.i
-
-Skilaverkefni1/main.s: Skilaverkefni1/main.cpp.s
-
-.PHONY : Skilaverkefni1/main.s
-
-# target to generate assembly for a file
-Skilaverkefni1/main.cpp.s:
-	$(MAKE) -f CMakeFiles/FORR3CG05DU.dir/build.make CMakeFiles/FORR3CG05DU.dir/Skilaverkefni1/main.cpp.s
-.PHONY : Skilaverkefni1/main.cpp.s
-
-Skilaverkefni1/stack/stackNode.o: Skilaverkefni1/stack/stackNode.cpp.o
-
-.PHONY : Skilaverkefni1/stack/stackNode.o
-
-# target to build an object file
-Skilaverkefni1/stack/stackNode.cpp.o:
-	$(MAKE) -f CMakeFiles/FORR3CG05DU.dir/build.make CMakeFiles/FORR3CG05DU.dir/Skilaverkefni1/stack/stackNode.cpp.o
-.PHONY : Skilaverkefni1/stack/stackNode.cpp.o
-
-Skilaverkefni1/stack/stackNode.i: Skilaverkefni1/stack/stackNode.cpp.i
-
-.PHONY : Skilaverkefni1/stack/stackNode.i
-
-# target to preprocess a source file
-Skilaverkefni1/stack/stackNode.cpp.i:
-	$(MAKE) -f CMakeFiles/FORR3CG05DU.dir/build.make CMakeFiles/FORR3CG05DU.dir/Skilaverkefni1/stack/stackNode.cpp.i
-.PHONY : Skilaverkefni1/stack/stackNode.cpp.i
-
-Skilaverkefni1/stack/stackNode.s: Skilaverkefni1/stack/stackNode.cpp.s
-
-.PHONY : Skilaverkefni1/stack/stackNode.s
-
-# target to generate assembly for a file
-Skilaverkefni1/stack/stackNode.cpp.s:
-	$(MAKE) -f CMakeFiles/FORR3CG05DU.dir/build.make CMakeFiles/FORR3CG05DU.dir/Skilaverkefni1/stack/stackNode.cpp.s
-.PHONY : Skilaverkefni1/stack/stackNode.cpp.s
-
-Skilaverkefni1/student.o: Skilaverkefni1/student.cpp.o
-
-.PHONY : Skilaverkefni1/student.o
-
-# target to build an object file
-Skilaverkefni1/student.cpp.o:
-	$(MAKE) -f CMakeFiles/FORR3CG05DU.dir/build.make CMakeFiles/FORR3CG05DU.dir/Skilaverkefni1/student.cpp.o
-.PHONY : Skilaverkefni1/student.cpp.o
-
-Skilaverkefni1/student.i: Skilaverkefni1/student.cpp.i
-
-.PHONY : Skilaverkefni1/student.i
-
-# target to preprocess a source file
-Skilaverkefni1/student.cpp.i:
-	$(MAKE) -f CMakeFiles/FORR3CG05DU.dir/build.make CMakeFiles/FORR3CG05DU.dir/Skilaverkefni1/student.cpp.i
-.PHONY : Skilaverkefni1/student.cpp.i
-
-Skilaverkefni1/student.s: Skilaverkefni1/student.cpp.s
-
-.PHONY : Skilaverkefni1/student.s
-
-# target to generate assembly for a file
-Skilaverkefni1/student.cpp.s:
-	$(MAKE) -f CMakeFiles/FORR3CG05DU.dir/build.make CMakeFiles/FORR3CG05DU.dir/Skilaverkefni1/student.cpp.s
-.PHONY : Skilaverkefni1/student.cpp.s
+operatorOverloading/puntur.cpp.s:
+	$(MAKE) -f CMakeFiles/FORR3CG05DU.dir/build.make CMakeFiles/FORR3CG05DU.dir/operatorOverloading/puntur.cpp.s
+.PHONY : operatorOverloading/puntur.cpp.s
 
 # Help Target
 help:
@@ -321,27 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... FORR3CG05DU"
 	@echo "... edit_cache"
-	@echo "... Skilaverkefni1/Stack/stack.o"
-	@echo "... Skilaverkefni1/Stack/stack.i"
-	@echo "... Skilaverkefni1/Stack/stack.s"
-	@echo "... Skilaverkefni1/StudentDL/studentDL.o"
-	@echo "... Skilaverkefni1/StudentDL/studentDL.i"
-	@echo "... Skilaverkefni1/StudentDL/studentDL.s"
-	@echo "... Skilaverkefni1/StudentDL/studentDLNode.o"
-	@echo "... Skilaverkefni1/StudentDL/studentDLNode.i"
-	@echo "... Skilaverkefni1/StudentDL/studentDLNode.s"
-	@echo "... Skilaverkefni1/course.o"
-	@echo "... Skilaverkefni1/course.i"
-	@echo "... Skilaverkefni1/course.s"
-	@echo "... Skilaverkefni1/main.o"
-	@echo "... Skilaverkefni1/main.i"
-	@echo "... Skilaverkefni1/main.s"
-	@echo "... Skilaverkefni1/stack/stackNode.o"
-	@echo "... Skilaverkefni1/stack/stackNode.i"
-	@echo "... Skilaverkefni1/stack/stackNode.s"
-	@echo "... Skilaverkefni1/student.o"
-	@echo "... Skilaverkefni1/student.i"
-	@echo "... Skilaverkefni1/student.s"
+	@echo "... operatorOverloading/puntur.o"
+	@echo "... operatorOverloading/puntur.i"
+	@echo "... operatorOverloading/puntur.s"
 .PHONY : help
 
 

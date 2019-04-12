@@ -6,12 +6,24 @@
 
 #IncludeRegexTransform: 
 
-/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/Flight/flight.cpp
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/AirlineDLL/airlineDLL.h
 string
 -
-iostream
+airlineNodeDLL.h
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/AirlineDLL/airlineNodeDLL.h
+
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/AirlineDLL/airlineNodeDLL.h
+string
 -
-flight.h
+../airline.h
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/airline.h
+
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/Flight/FlightDLL/flightDLL.h
+flightNode.h
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/Flight/FlightDLL/flightNode.h
+
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/Flight/FlightDLL/flightNode.h
+../flight.h
 /cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/Flight/flight.h
 
 /cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/Flight/flight.h
@@ -24,7 +36,41 @@ string
 ../../TimeDate/timeDate.h
 /cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/TimeDate/timeDate.h
 
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/airline.h
+vector
+-
+string
+-
+../Factory/Airplane/airplane.h
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Factory/Airplane/airplane.h
+Flight/FlightDLL/flightDLL.h
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/Flight/FlightDLL/flightDLL.h
+
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airport/AirportDLL/airportDLL.h
+string
+-
+airportNode.h
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airport/AirportDLL/airportNode.h
+
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airport/AirportDLL/airportNode.h
+string
+-
+../airport.h
 /cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airport/airport.h
+
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airport/airport.h
+string
+-
+
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Factory/Airplane/AirplaneDLL/airplaneDLL.h
+string
+-
+airplaneNode.h
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Factory/Airplane/AirplaneDLL/airplaneNode.h
+
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Factory/Airplane/AirplaneDLL/airplaneNode.h
+../airplane.h
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Factory/Airplane/airplane.h
 string
 -
 
@@ -32,7 +78,45 @@ string
 string
 -
 
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Factory/FactoryDLL/factoryDLL.h
+string
+-
+factoryNode.h
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Factory/FactoryDLL/factoryNode.h
+
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Factory/FactoryDLL/factoryNode.h
+string
+-
+../factory.h
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Factory/factory.h
+
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Factory/factory.h
+string
+-
+Airplane/AirplaneDLL/airplaneDLL.h
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Factory/Airplane/AirplaneDLL/airplaneDLL.h
+
 /cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/TimeDate/timeDate.h
 string
 -
+
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/main.cpp
+iostream
+-
+math.h
+-
+Airport/AirportDLL/airportDLL.h
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airport/AirportDLL/airportDLL.h
+Airport/airport.h
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airport/airport.h
+Factory/FactoryDLL/factoryDLL.h
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Factory/FactoryDLL/factoryDLL.h
+Factory/Airplane/AirplaneDLL/airplaneDLL.h
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Factory/Airplane/AirplaneDLL/airplaneDLL.h
+Factory/Airplane/airplane.h
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Factory/Airplane/airplane.h
+Airline/Flight/FlightDLL/flightDLL.h
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/Flight/FlightDLL/flightDLL.h
+Airline/AirlineDLL/airlineDLL.h
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/FlugkerfaVerkefni/Flugvollur/Airline/AirlineDLL/airlineDLL.h
 

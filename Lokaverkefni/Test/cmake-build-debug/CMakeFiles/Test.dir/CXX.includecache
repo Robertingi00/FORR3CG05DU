@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/rober/OneDrive/Documents/Skoli/Taekniskolinn/2019 Vor/FORR3CG05DU/Lokaverkefni/Test/firstTest.cpp
+stdlib.h
+-
+iostream
+-
+DataBase/driver/mysql_connection.h
+-
+DataBase/cppconn/driver.h
+-
+DataBase/cppconn/exception.h
+-
+DataBase/cppconn/resultset.h
+-
+DataBase/cppconn/statement.h
+-
+iostream
+-
+

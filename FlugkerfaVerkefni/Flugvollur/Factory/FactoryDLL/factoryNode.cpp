@@ -75,10 +75,6 @@ void FactoryNode::print(){
     }
 }
 
-int FactoryNode::getNextPlaneId(){
-    return nextPlaneId ++;
-};
-
 FactoryNode* FactoryNode::getNext(){return next;};
 FactoryNode* FactoryNode::getprev(){return prev;};
 Factory* FactoryNode::getData() {return data;};
